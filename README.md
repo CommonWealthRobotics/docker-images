@@ -1,9 +1,8 @@
-# Axon Docker Images
+# Bowler Docker Images
 
-These are the dockerfiles for developing and using Axon.
+These are the dockerfiles for developing and using the Bowler stack.
 
-## axon-playground
+## rpc-arduino
 
 - Based on Ubuntu 18.04
-- Contains TensorFlow, ONNX, and Jupyter
-- Starts a Jupyter Notebook server on 8888
+- Used in CI builds to build bowler-rpc-arduino
